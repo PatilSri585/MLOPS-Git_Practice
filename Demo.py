@@ -6,4 +6,8 @@ print("It demonstrates basic print functionality.") #3rd Commit
 print("This line is added in Test1 branch.") #Test1 Commit
 print("Another line in Test1 branch.") #Test1 Commit 2
 
+<<<<<<< HEAD
 print("conflict commit.") #Conflict commit on main
+=======
+print("Back to test branch.") #Conflict Commit on test
+>>>>>>> test1
